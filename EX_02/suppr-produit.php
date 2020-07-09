@@ -18,6 +18,6 @@ function connect_to_database(){
    }
    
    }
-"DELETE FROM 'produit' WHERE nom='T-shirt noir'");
+"DELETE FROM 'produit' WHERE nom='T-shirt noir')";
 
 	?> 

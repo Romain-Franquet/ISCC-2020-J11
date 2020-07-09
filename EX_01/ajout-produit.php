@@ -18,8 +18,8 @@ echo "Connection failed : ". $e->getMessage();
 
 }
 "INSERT INTO `produit` (`id`, `nom`, `description`, `prix`, `quantite`,)
-	VALUES(8, 'T-shirt noir', 'T-shirt coton de couleur noire', "15.50", "10"),
-	");
+	VALUES(8, 'T-shirt noir', 'T-shirt coton de couleur noire', 15.50, 10),
+	)";
 
 
 ?>
